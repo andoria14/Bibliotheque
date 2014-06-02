@@ -21,5 +21,5 @@ Mode d'emploi :
   - Entrez dans la base créée et créez un administrateur à la main ou authentifiez-vous avec les identifiants cités ci-dessus
   - Gérez votre bibliothèque
 
-Logiciel libre de droit
+Logiciel libre de droit.
 Créé par Andoria
